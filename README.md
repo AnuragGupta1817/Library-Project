@@ -1,7 +1,7 @@
 # Library-Project
 It is the project of my 12th class, Made with Python and Mysql.
 </br>
-Showing basic structure of a Library.
+Showing basic structure of a Library. ~Anurag Gupta
 
 
 Introduction
